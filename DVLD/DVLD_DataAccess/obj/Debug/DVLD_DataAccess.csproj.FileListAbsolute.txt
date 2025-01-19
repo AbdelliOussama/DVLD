@@ -1,0 +1,6 @@
+C:\Users\oussa\Desktop\Self_learn\Projects\Desktop Apps\DVLD\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\oussa\Desktop\Self_learn\Projects\Desktop Apps\DVLD\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\oussa\Desktop\Self_learn\Projects\Desktop Apps\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\Self_learn\Projects\Desktop Apps\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\Self_learn\Projects\Desktop Apps\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\oussa\Desktop\Self_learn\Projects\Desktop Apps\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
